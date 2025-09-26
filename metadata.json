@@ -1,0 +1,7 @@
+{
+  "name": "The Literary Curator",
+  "description": "An eloquent AI book recommendation app that converses with you to find the perfect next read. It uses Google Search for real-time, verifiable suggestions and keeps a history of all your recommendations in a personal reading list.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
